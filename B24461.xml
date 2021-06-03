@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of knights, esquires, gentlemen, some of the committee, with divines, freeholders, and inhabitants of the county of Warwick and the city of Coventry to both Houses of Parliament humbly laying open the present grievances of that county, to which petition was annexed betweene three and four thousand hands, presented on Wednesday the 21 of August, 1644.  Also the humble petition of most of the committee, commanders and others of the county of Stafford : setting forth the present dangers threatned to that county, expressing their humble desires that the Right Honorable the Earl of Denbigh, their Lord Generall, may with sutable conveniences be speedily accommodated and sent down to their relief, to this petition was annexed many hands.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24461</idno><idno type="EEBO-CITATION">11876111</idno>
+  <idno type="VID">196449</idno>
+  <idno type="EEBO-PROQUEST">2240923305</idno>
+  
+            <idno type="STC">Wing H3468</idno>
+            <idno type="OCLC">11876111</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196449)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 228:E7, no 20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of knights, esquires, gentlemen, some of the committee, with divines, freeholders, and inhabitants of the county of Warwick and the city of Coventry to both Houses of Parliament humbly laying open the present grievances of that county, to which petition was annexed betweene three and four thousand hands, presented on Wednesday the 21 of August, 1644.  Also the humble petition of most of the committee, commanders and others of the county of Stafford : setting forth the present dangers threatned to that county, expressing their humble desires that the Right Honorable the Earl of Denbigh, their Lord Generall, may with sutable conveniences be speedily accommodated and sent down to their relief, to this petition was annexed many hands.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Staffordshire (England) --  History.</term>
+               <term type="geographic_name">Warwickshire (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196449:1"/>
+            <pb facs="tcp:196449:1"/>
+            <p>The Humble PETITION OF Knights, Esquires, Gentlemen, (some of the Committee) with Divines, Freeholders, and Inhabitants of the county of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> and the city of <hi>Coventrey:</hi> To both Houses of Parliament.</p>
+            <p>Humbly laying open the present Grie<g ref="char:EOLhyphen"/>vances of that county; to which Petition was annexed betweene three and four thousand hands, presented on Wednesday the 21. of AUGUST; 1644.</p>
+            <p>ALSO The humble Petition of most of the Committee, Commanders, and others of the county of STAFFORD: Setting forth the present dangers threatned to that coun<g ref="char:EOLhyphen"/>ty, expressing their humble desires, That the Right Honorable the Earl of <hi>Denbigh,</hi> their Lord Gene<g ref="char:EOLhyphen"/>rall, may wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h sutable conveniences be speedily accommodated and sent down to their relief.</p>
+            <p>To this Petition was annexed many hands.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. S.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:196449:2"/>
+            <pb n="3" facs="tcp:196449:2"/>
+            <head>To the Right Honorable, The Lords and Commons assembled in Parliament;</head>
+            <head type="sub">The humble Petition of the Gentry, Free<g ref="char:EOLhyphen"/>holders and Jnhabitants of the County of <hi>VVarwick,</hi> and the City and County of <hi>Coventrey:</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat withall thankfulnesse we acknowledge the great favor vouchsafed unto us, in sending downe the right Honourable the Earl of <hi>Denbigh,</hi> to be our Lord Lieutenant Generall of all our forces, whose integrity, faithfulnesse and valour being sufficiently manifested to us and the whole kingdom, we humbly desire all possible encouragement may be added for his noble proceedings herein.</p>
+            <p>And whereas it hath pleased this Honorable assembly to Ordaine a Grand Committee for taking of the accompts of the great disbursments of the whole kingdom, with power to nominate a Sub-Committee in each particular County, which hath not yet been set<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led in ours.</p>
+            <p>And whereas by diverse Ordinances of other Associated
+<pb n="4" facs="tcp:196449:3"/>Counties, your petitioners finde the weekly sums to be raised upon the said Counties, Limited, and not to exceed a certayn sum, But in the Ordinance of Association of these our Counties, and of the County of Stafford, there is power given unto the Committees of the said Counties, to Tax, Assesse and raise what sum they should thinke fit, for the making of Fortifications, payment of Garrisons, Officers and souldier, without reducing the same to any such certain sum, by reason of which unlimited power (different from other Ordinances) This County hath been extreamly burthened with divers great weekly Tax<g ref="char:EOLhyphen"/>ations, double if not treble (at the least) to other Neigh<g ref="char:EOLhyphen"/>bouring Countyes, of far larger extent and better values, contrary (as wee humbly conceive) to the intention of this honorable assembly, besides the losses suffered by free quarter, frequent plundering, almost throughout the whole County, and diverse other insupportable burthens, hard taxes &amp; other grievances of our county, have drawn a generall discontent vpon the whole people, and thereby most are disabled, others discouraged, to doe that service for the Parliament, which otherwise they might.</p>
+            <p>Doe therefore humbly pray, that this Honourable assembly would bee pleased that the weekly tax for payment of the said Garrisons, Officers and souldiers, may be reduced, not to exceed a certain sum, and to give order to the said Grand Committee for taking of ac<g ref="char:EOLhyphen"/>compts, that at such time as they shall thinke fit to nomi<g ref="char:EOLhyphen"/>nate Sub-Committees for our County (which we humbly desire may be effected with all possible speed) that our Lord-Lieutenant may be moved by the said Cōmittee to be then and there present to give his assent and approbati<g ref="char:EOLhyphen"/>on of such as shalbe by them nominated, and that all just
+<pb n="5" facs="tcp:196449:3"/>complaints and grievances whatsoever within these coun<g ref="char:EOLhyphen"/>ties by vertue of sequestrations and Parliament, proposi<g ref="char:EOLhyphen"/>tions may be assigned unto the said Earl, for the better encouragement of the said Earl, and towards the payment of his souldiers, if it may stand with the wisdom of this Honourable assembly, and that speciall care of the Go<g ref="char:EOLhyphen"/>vernment of the Town of <hi>Warwick,</hi> and the Garison of <hi>Compton</hi> may be recommended to the Earl of <hi>Denbigh,</hi> and to such Gentlemen of the Countie as the said Earl shall nominate, and shall be approoved by this Hono<g ref="char:EOLhyphen"/>rable assembly, and that some of the members of the Committee may be ordered to sit constantly in the said Borough of <hi>Warwick,</hi> which will tend to the ease of the greatest part of the said County, who are now forced to travell many miles, to their great trouble and expence; for which end your Petitioners further humbly pray, that such Gentlemen of quality, known estate in the said coun<g ref="char:EOLhyphen"/>ty, and approved integrity, may be added the Committee, as shall be recommended by our Lord-Lieutenant, and approoved of by this Honourable assembly, and likewise that this Honourable assembly would be pleased to ap<g ref="char:EOLhyphen"/>point such Deputy Lieutenants as our Lord-Lieutenant shall commend unto them.</p>
+            <closer>
+               <hi>And shall ever pray, &amp;c.</hi>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This petition was first presented to the Honourable House of Commons, on wednesday the</hi> 21 <hi>of August, it be<g ref="char:EOLhyphen"/>ing the grievance of the County, but by reason of the much businesse then in the House, the petitioners there pre<g ref="char:EOLhyphen"/>sent</hi>
+                  <pb n="6" facs="tcp:196449:4"/>(<hi>which <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> about</hi> 20 <hi>Gentlemen</hi>) <hi>were that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y dismissed, being appointed Friday morning to make their addresse for the delivery of their petition, who after their departure finding opportunity, made their addresse to the House of Lords, where they had acceptance; their petition was read in the House, and also their grievances thereto annexed; after which they withdrew, and in a quarter of an hours space were called in again, to whom was returned a gratious and favourable answer to this effect;</hi> viz. <hi>That the Lords did well approove of their petition, and thought it fit that their just desires therein should be granted, ex<g ref="char:EOLhyphen"/>pressing thankes to the Gentlemen for their good affections, and expressions to the Parliament and Kingdom, assuring them that nothing should be wanting in that house, of their best endeavours to ease them of the burthen of their grie<g ref="char:EOLhyphen"/>vances, and that with all carefulnesse and expedition.</hi>
+               </p>
+               <p>
+                  <hi>On Fryday they came againe to the Commons House, and while they were wayting to be called in, the petitions which they had presented to the Lords on wednesday was transferred from the Lords House to the Commons, and by them received, and after three votes, it was committed to a Committee of Lords and Commons to be heard.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:196449:4"/>
+            <head>To the Right Honorable, The Lords and Commons assembled in Parliament;</head>
+            <head type="sub">The humble Petition of many of the Com<g ref="char:EOLhyphen"/>mittee, Commanders, and others well af<g ref="char:EOLhyphen"/>fected in the County of <hi>Stafford.</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat this our country being very much perplexed and infested by severall strong Garrisons, and parties of the enemy now of late increased by Addition of many Northern Renegadoes, our forces being not able to de<g ref="char:EOLhyphen"/>fend themselves or the Country from the grievous and daily Plunders, imprisonments, and insupportable Tax<g ref="char:EOLhyphen"/>ations and ransomes, cruelly exercised and charged upon them; having also very credible intelligence that Prince <hi>Rupert</hi> is now recruting his Army about Chester, Salop, and North-wales, where a weeke since he has 5000 Horse and above 2000 Foot, and upon daily increase, raising great sums of money in those parts, Salop now busie in Collecting 9000 pounds more for him; And that many matters of great concernment for the Publique lie un<g ref="char:EOLhyphen"/>settled, and our forces without addition unserviceable, to the great distraction and prejudice of our Country and the affaires in hand.</p>
+            <pb n="8" facs="tcp:196449:5"/>
+            <p>Humbly pray, that our Lord Generall the Earl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Denbigh,</hi> by whose fidelity, valor and wisdom, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are experimentally confident under God, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> miseries may be prevented, and grievances redressed, may not as heretofore to the enemies great advan<g ref="char:EOLhyphen"/>tage and our long suffrings by particular indeavors, without generall Concurrences be retarded, but with all necessaries and sutable conveniences, spee<g ref="char:EOLhyphen"/>dily accommodated and dispatched away to our re<g ref="char:EOLhyphen"/>lief, before our Countrey be quite over-run, and drai<g ref="char:EOLhyphen"/>ned of the wealth and strength thereof by the enemy; and we shall with his Lordship willingly adventure our lives and fortunes in this great cause.</p>
+            <closer>
+               <hi>And shall ever pray, &amp;c.</hi>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This Petition was likewise well accepted, and is com<g ref="char:EOLhyphen"/>mitted to the same Committee of Lords and Commons.</hi>
+               </p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
